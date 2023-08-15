@@ -1,0 +1,29 @@
+#user{
+    height: 70px;
+    font-size: x-large;
+    padding-left: 20px;
+    color: white;
+}
+
+
+#card{
+    display: flex;
+    flex-flow: column;
+    background-color: rgb(141, 241, 241);
+    width: 250px;
+    height: 170px;
+    margin: 40px;
+    padding: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
+    
+}
+
+#root{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 40px;
+}
+#text{
+    padding: 5px;
+}
